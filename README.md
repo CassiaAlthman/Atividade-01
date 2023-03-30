@@ -1,2 +1,4 @@
-# Atividade-01
-Resolução de exercícios para estudo do módulo de Data Quality, Data Clean e Testes utilizando a biblioteca Pandas.
+# Atividade 01 💻
+
+### -> [Atividade com o código](codigo/Atividade%2001.ipynb)
+### -> [Arquivos de dados utilizados](data)
